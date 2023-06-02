@@ -1,6 +1,6 @@
 {
   "name": "@thakyz/eslint-config-node",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "description": "Pluggable eslint config for Node.js that you can import, extend and override",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

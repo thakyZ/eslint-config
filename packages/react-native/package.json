@@ -1,6 +1,6 @@
 {
   "name": "@thakyz/eslint-config-react-native",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "description": "Pluggable ESLint config for React Native that you can import, extend and override",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -30,7 +30,7 @@
   "dependencies": {
     "eslint"                      : "^8.41.0", 
     "@thakyz/eslint-config-esnext": "^4.1.1" , 
-    "eslint-plugin-react"         : "^7.32.2", 
+    "eslint-plugin-react"         : "^7.32.2",
     "eslint-plugin-react-native"  : "^4.0.0"
   },
   "devDependencies": {
