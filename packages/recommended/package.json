@@ -35,9 +35,9 @@
   },
   "homepage": "https://github.com/thakyz/eslint-config/tree/master/packages/recommended#readme",
   "dependencies": {
-    "eslint"                      : "^8.41.0", 
-    "@thakyz/eslint-config-esnext": "^4.1.1" , 
-    "@thakyz/eslint-config-node"  : "^4.1.1",
+    "eslint": "^8.41.0",
+    "@thakyz/eslint-config-esnext": "^4.1.1",
+    "@thakyz/eslint-config-node": "^4.1.1",
     "@thakyz/eslint-config-react-native": "^4.1.1"
   },
   "peerDependencies": {

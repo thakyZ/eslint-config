@@ -27,7 +27,8 @@
   },
   "homepage": "https://github.com/thakyz/eslint-config/tree/master/packages/node#readme",
   "dependencies": {
-    "eslint": "^8.41.0", "@thakyz/eslint-config-esnext": "^4.1.1"
+    "eslint": "^8.41.0",
+    "@thakyz/eslint-config-esnext": "^4.1.1"
   },
   "devDependencies": {
     "js-yaml": "^4.1.0"

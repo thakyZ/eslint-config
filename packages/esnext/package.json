@@ -30,8 +30,8 @@
   },
   "homepage": "https://github.com/thakyz/eslint-config/tree/master/packages/esnext#readme",
   "dependencies": {
-    "@babel/eslint-parser": "^7.21.8", 
-    "eslint"              : "^8.41.0", 
+    "@babel/eslint-parser": "^7.21.8",
+    "eslint": "^8.41.0",
     "@babel/eslint-plugin": "^7.19.1",
     "eslint-plugin-import": "^2.27.5"
   },
