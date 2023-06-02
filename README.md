@@ -2,6 +2,8 @@
 
 <h3>Pluggable [ESLint](http://eslint.org/docs/about/) [configs](http://eslint.org/docs/developer-guide/shareable-configs) for [ECMAScript Next](https://kangax.github.io/compat-table/esnext), [Node.js](https://nodejs.org) and [React Native](https://facebook.github.io/react-native) that you can import, extend and override</h3>
 
+<h3>Updated outdated and deprecated packages.</h3>
+
 [![Join the chat at https://gitter.im/thakyz/eslint-config][gitter-img]][gitter-url]
 [![npm version][version-img]][npm-url]
 [![npm downloads][downloads-img]][npm-url]
