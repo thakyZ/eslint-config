@@ -1,5 +1,5 @@
 {
-  "name": "@thakyz/eslint-config-esnext",
+  "name": "@nekogaming/eslint-config-esnext",
   "version": "4.1.1",
   "description": "Pluggable eslint config for ECMAScript Next that you can import, extend and override",
   "scripts": {

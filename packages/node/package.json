@@ -1,5 +1,5 @@
 {
-  "name": "@thakyz/eslint-config-node",
+  "name": "@nekogaming/eslint-config-node",
   "version": "4.1.1",
   "description": "Pluggable eslint config for Node.js that you can import, extend and override",
   "scripts": {
@@ -28,7 +28,7 @@
   "homepage": "https://github.com/thakyz/eslint-config/tree/master/packages/node#readme",
   "dependencies": {
     "eslint": "^8.41.0",
-    "@thakyz/eslint-config-esnext": "^4.1.1"
+    "@nekogaming/eslint-config-esnext": "^4.1.1"
   },
   "devDependencies": {
     "js-yaml": "^4.1.0"

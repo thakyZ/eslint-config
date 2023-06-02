@@ -1,4 +1,4 @@
-# @thakyz/eslint-config
+# @nekogaming/eslint-config
 
 <h3>Pluggable [ESLint](https://eslint.org/docs/about/) [configs](https://eslint.org/docs/developer-guide/shareable-configs) for [ECMAScript Next](https://kangax.github.io/compat-table/esnext), [Node.js](https://nodejs.org) and [React Native](https://facebook.github.io/react-native) that you can import, extend and override</h3>
 

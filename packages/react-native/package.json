@@ -1,5 +1,5 @@
 {
-  "name": "@thakyz/eslint-config-react-native",
+  "name": "@nekogaming/eslint-config-react-native",
   "version": "4.1.1",
   "description": "Pluggable ESLint config for React Native that you can import, extend and override",
   "scripts": {
@@ -29,7 +29,7 @@
   "homepage": "https://github.com/thakyz/eslint-config/tree/master/packages/react-native#readme",
   "dependencies": {
     "eslint": "^8.41.0",
-    "@thakyz/eslint-config-esnext": "^4.1.1",
+    "@nekogaming/eslint-config-esnext": "^4.1.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-native": "^4.0.0"
   },
