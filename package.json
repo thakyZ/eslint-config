@@ -14,7 +14,7 @@
     "url": "git+https://github.com/thakyz/eslint-config.git"
   },
   "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "eslint",

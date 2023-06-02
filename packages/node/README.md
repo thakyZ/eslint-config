@@ -1,6 +1,6 @@
 # eslint-config-node
 
-<h3>Pluggable [ESLint](http://eslint.org/docs/about/) [config](http://eslint.org/docs/developer-guide/shareable-configs) for [Node.js](https://nodejs.org) that you can import, extend and override</h3>
+<h3>Pluggable [ESLint](https://eslint.org/docs/about/) [config](https://eslint.org/docs/developer-guide/shareable-configs) for [Node.js](https://nodejs.org) that you can import, extend and override</h3>
 
 <h3>Updated outdated and deprecated packages.</h3>
 
@@ -61,7 +61,7 @@ env:
   node: true
 ```
 
-[enables](http://eslint.org/docs/user-guide/configuring#specifying-environments) Node.js features and global variables
+[enables](https://eslint.org/docs/user-guide/configuring#specifying-environments) Node.js features and global variables
 
 ```yaml
 extends: esnext
@@ -73,11 +73,11 @@ includes config and rules from [eslint-config-esnext](https://github.com/kunalgo
 rules:
 ```
 
-selected [from here](http://eslint.org/docs/rules/#nodejs-and-commonjs), configured to:
+selected [from here](https://eslint.org/docs/rules/#nodejs-and-commonjs), configured to:
 
-- [`no-path-concat`](http://eslint.org/docs/rules/no-path-concat): disallow string concatenation with `__dirname` and `__filename`
-- [`no-process-exit`](http://eslint.org/docs/rules/no-process-exit): disallow the use of `process.exit()`
-- [`no-sync`](http://eslint.org/docs/rules/no-sync): disallow synchronous methods; set to warn only
+- [`no-path-concat`](https://eslint.org/docs/rules/no-path-concat): disallow string concatenation with `__dirname` and `__filename`
+- [`no-process-exit`](https://eslint.org/docs/rules/no-process-exit): disallow the use of `process.exit()`
+- [`no-sync`](https://eslint.org/docs/rules/no-sync): disallow synchronous methods; set to warn only
 
 ---
 

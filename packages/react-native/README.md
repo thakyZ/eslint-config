@@ -1,6 +1,6 @@
 # eslint-config-react-native
 
-<h3>Pluggable [ESLint](http://eslint.org/docs/about/) [config](http://eslint.org/docs/developer-guide/shareable-configs) for [React Native](https://facebook.github.io/react-native) that you can import, extend and override</h3>
+<h3>Pluggable [ESLint](https://eslint.org/docs/about/) [config](https://eslint.org/docs/developer-guide/shareable-configs) for [React Native](https://facebook.github.io/react-native) that you can import, extend and override</h3>
 
 <h3>Updated outdated and deprecated packages.</h3>
 
@@ -61,7 +61,7 @@ env:
   browser: true
 ```
 
-[enables](http://eslint.org/docs/user-guide/configuring#specifying-environments) browser features and global variables
+[enables](https://eslint.org/docs/user-guide/configuring#specifying-environments) browser features and global variables
 
 ```yaml
 plugins:
@@ -77,7 +77,7 @@ extends:
   - plugin:react/recommended
 ```
 
-[enables](http://eslint.org/docs/user-guide/configuring#specifying-environments) `jsx` parsing, includes config and rules from [eslint-config-esnext](https://github.com/kunalgolani/eslint-config/tree/master/packages/esnext) and the following [react-specific recommended rules](https://github.com/yannickcr/eslint-plugin-react#recommended-configuration.md):
+[enables](https://eslint.org/docs/user-guide/configuring#specifying-environments) `jsx` parsing, includes config and rules from [eslint-config-esnext](https://github.com/kunalgolani/eslint-config/tree/master/packages/esnext) and the following [react-specific recommended rules](https://github.com/yannickcr/eslint-plugin-react#recommended-configuration.md):
 
 - [`react/display-name`](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/display-name.md): prevent missing `displayName` in a React component definition
 - [`react/jsx-no-duplicate-props`](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-duplicate-props.md): prevent duplicate properties in JSX components
