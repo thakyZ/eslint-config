@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-esnext",
+  "name": "@thakyz/eslint-config-esnext",
   "version": "4.1.0",
   "description": "Pluggable eslint config for ECMAScript Next that you can import, extend and override",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kunalgolani/eslint-config.git"
+    "url": "git+https://github.com/thakyz/eslint-config.git"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
@@ -23,22 +23,22 @@
     "es2015",
     "es2016"
   ],
-  "author": "kunalgolani@gmail.com",
+  "author": "thakyz@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kunalgolani/eslint-config/issues"
+    "url": "https://github.com/thakyz/eslint-config/issues"
   },
-  "homepage": "https://github.com/kunalgolani/eslint-config/tree/master/packages/esnext#readme",
+  "homepage": "https://github.com/thakyz/eslint-config/tree/master/packages/esnext#readme",
   "dependencies": {
-    "babel-eslint": "^10.0.1",
-    "eslint": "^6.8.0",
-    "eslint-plugin-babel": "^5.2.1",
-    "eslint-plugin-import": "^2.14.0"
+    "@babel/eslint-parser": "^7.21.8", 
+    "eslint"              : "^8.41.0", 
+    "@babel/eslint-plugin": "^7.19.1", 
+    "eslint-plugin-import": "^2.27.5"
   },
   "devDependencies": {
-    "js-yaml": "^3.12.0"
+    "js-yaml": "^4.1.0"
   },
   "peerDependencies": {
-    "eslint": ">=6 <=7"
+    "eslint": ">=6"
   }
 }

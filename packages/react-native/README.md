@@ -1,15 +1,17 @@
-## Pluggable [ESLint](http://eslint.org/docs/about/) [config](http://eslint.org/docs/developer-guide/shareable-configs) for [React Native](https://facebook.github.io/react-native) that you can import, extend and override
+# eslint-config-react-native
 
-[![Join the chat at https://gitter.im/kunalgolani/eslint-config ][gitter-img]][gitter-url]
+<h3>Pluggable [ESLint](http://eslint.org/docs/about/) [config](http://eslint.org/docs/developer-guide/shareable-configs) for [React Native](https://facebook.github.io/react-native) that you can import, extend and override</h3>
+
+[![Join the chat at https://gitter.im/kunalgolani/eslint-config][gitter-img]][gitter-url]
 [![npm version][version-img]][npm-url]
 [![npm downloads][downloads-img]][npm-url]
 [![GitHub issues][issues-img]][issues-url]
 [![Deps][deps-img]][deps-url]
 [![Dev Deps][devdeps-img]][deps-url]
 
-### React Native: Safety Checks and Best Practices with a bias toward code concision / brevity
+<h3>React Native: Safety Checks and Best Practices with a bias toward code concision / brevity</h3>
 
-#### Usage
+## Usage
 
 In your js project directory:
 
@@ -48,7 +50,7 @@ And in your `package.json`:
 
 ---
 
-#### Config
+## Config
 
 This config is biased and opinionated, and errs on the side of too many rules instead of too few. Think of this as a superset of your repo's lint config, and discard what you don't like in it. It's easy to override and disable the rules you find inconvenient.
 
@@ -117,7 +119,7 @@ selected [from here](https://github.com/yannickcr/eslint-plugin-react#list-of-su
 
 ---
 
-### [React Native Style Guide](https://github.com/kunalgolani/eslint-config/tree/master/packages/react-native/style-guide)
+## [React Native Style Guide](https://github.com/kunalgolani/eslint-config/tree/master/packages/react-native/style-guide)
 
 [gitter-img]: https://badges.gitter.im/kunalgolani/eslint-config.svg
 [gitter-url]: https://gitter.im/kunalgolani/eslint-config?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge

@@ -1,15 +1,17 @@
-## Pluggable [ESLint](http://eslint.org/docs/about/) [config](http://eslint.org/docs/developer-guide/shareable-configs) for [ECMAScript Next](https://kangax.github.io/compat-table/esnext) that you can import, extend and override
+# eslint-config-esnext
 
-[![Join the chat at https://gitter.im/kunalgolani/eslint-config ][gitter-img]][gitter-url]
+<h3>Pluggable [ESLint](http://eslint.org/docs/about/) [config](http://eslint.org/docs/developer-guide/shareable-configs) for [ECMAScript Next](https://kangax.github.io/compat-table/esnext) that you can import, extend and override</h3>
+
+[![Join the chat at https://gitter.im/kunalgolani/eslint-config][gitter-img]][gitter-url]
 [![npm version][version-img]][npm-url]
 [![npm downloads][downloads-img]][npm-url]
 [![GitHub issues][issues-img]][issues-url]
 [![Deps][deps-img]][deps-url]
 [![Dev Deps][devdeps-img]][deps-url]
 
-### ESNext: Safety Checks and Best Practices with a bias toward code concision / brevity
+<h3>ESNext: Safety Checks and Best Practices with a bias toward code concision / brevity</h3>
 
-#### Usage
+## Usage
 
 In your js project directory:
 
@@ -56,7 +58,7 @@ And in your `package.json`:
 
 ---
 
-#### Config
+## Config
 
 This config is biased and opinionated, and errs on the side of too many rules instead of too few. Think of this as a superset of your repo's lint config, and discard what you don't like in it. It's easy to override and disable the rules you find inconvenient.
 

@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-react-native",
+  "name": "@thakyz/eslint-config-react-native",
   "version": "4.1.0",
   "description": "Pluggable ESLint config for React Native that you can import, extend and override",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kunalgolani/eslint-config.git"
+    "url": "git+https://github.com/thakyz/eslint-config.git"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
@@ -21,22 +21,22 @@
     "reactjs",
     "react-native"
   ],
-  "author": "kunalgolani@gmail.com",
+  "author": "thakyz@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kunalgolani/eslint-config/issues"
+    "url": "https://github.com/thakyz/eslint-config/issues"
   },
-  "homepage": "https://github.com/kunalgolani/eslint-config/tree/master/packages/react-native#readme",
+  "homepage": "https://github.com/thakyz/eslint-config/tree/master/packages/react-native#readme",
   "dependencies": {
-    "eslint": "^7.22.0",
-    "eslint-config-esnext": "^4.1.0",
-    "eslint-plugin-react": "^7.19.0",
-    "eslint-plugin-react-native": "^3.8.1"
+    "eslint"                      : "^8.41.0", 
+    "@thakyz/eslint-config-esnext": "^4.1.1" , 
+    "eslint-plugin-react"         : "^7.32.2", 
+    "eslint-plugin-react-native"  : "^4.0.0"
   },
   "devDependencies": {
-    "js-yaml": "^3.13.1"
+    "js-yaml": "^4.1.0"
   },
   "peerDependencies": {
-    "eslint": ">=6 <=7"
+    "eslint": ">=6"
   }
 }

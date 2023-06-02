@@ -1,5 +1,5 @@
 {
-  "name": "@kunalgolani/eslint-config",
+  "name": "@thakyz/eslint-config",
   "version": "4.1.0",
   "description": "Pluggable ESLint configs for ECMAScript Next, Node.js and React Native that you can import, extend and override",
   "private": true,
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kunalgolani/eslint-config.git"
+    "url": "git+https://github.com/thakyz/eslint-config.git"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
@@ -31,15 +31,15 @@
     "reactjs",
     "react-native"
   ],
-  "author": "kunalgolani@gmail.com",
+  "author": "Neko Boi Nick <thakyz@nekogaming.xyz> (https://www.nekogaming.xyz/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kunalgolani/eslint-config/issues"
+    "url": "https://github.com/thakyz/eslint-config/issues"
   },
-  "homepage": "https://github.com/kunalgolani/eslint-config#readme",
+  "homepage": "https://github.com/thakyz/eslint-config#readme",
   "devDependencies": {
-    "husky": "^4.2.3",
-    "js-yaml": "^3.13.1",
-    "lerna": "^3.20.2"
+    "husky": "^8.0.3",
+    "js-yaml": "^4.1.0",
+    "lerna": "^6.6.2"
   }
 }
