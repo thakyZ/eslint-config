@@ -1,0 +1,39 @@
+{
+  "name": "@nekogaming/eslint-config-node",
+  "version": "4.1.1",
+  "description": "Pluggable eslint config for Node.js that you can import, extend and override",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "js-yaml index.yaml > index.json && js-yaml style-guide/index.yaml > style-guide/index.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakyz/eslint-config.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "eslintconfig",
+    "node",
+    "node.js"
+  ],
+  "author": "thakyz@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thakyz/eslint-config/issues"
+  },
+  "homepage": "https://github.com/thakyz/eslint-config/tree/master/packages/node#readme",
+  "dependencies": {
+    "eslint": "^8.41.0",
+    "@nekogaming/eslint-config-esnext": "^4.1.1"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=6"
+  }
+}
